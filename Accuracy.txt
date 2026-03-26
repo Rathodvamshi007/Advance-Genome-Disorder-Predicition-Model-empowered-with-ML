@@ -1,0 +1,11 @@
+Advance Genome Disorder Prediction Model Empowered With Deep Learning
+
+Algorithm1:  XGBoost
+
+Accuracy % score: 92.65
+
+Algorithm2:  Support Vector Machine
+
+Accuracy % score: 41.40
+
+
