@@ -1,11 +1,4 @@
 
-## RUN PROCESS
-
-1) search & open "anaconda prompt"
-
-2) type & enter "cd your-code-location-folder"
-
-3) type & enter "streamlit run app.py"
 
 
 
@@ -19,6 +12,3 @@
 
 
 
-principal@cbit.ac.in
-hr@cbit.ac.in
-recently completed m.tch
